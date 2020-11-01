@@ -4,7 +4,8 @@
     "artifact" : "https://github.com/shen390s/iocage-plugin-phabricator.git",
     "properties": {
         "boot": "on",
-	"dhcp": "on"
+	"dhcp": "on",
+	"interfaces":"vnet0:bridge0"
     },
     "pkgs": [
         "phabricator-php74",
