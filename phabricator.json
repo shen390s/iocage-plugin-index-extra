@@ -3,7 +3,8 @@
     "release": "12.1-RELEASE",
     "artifact" : "https://github.com/shen390s/iocage-plugin-phabricator.git",
     "properties": {
-        "boot": "on"
+        "boot": "on",
+	"dhcp": "on"
     },
     "pkgs": [
         "phabricator-php74",
