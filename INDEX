@@ -1,0 +1,13 @@
+{
+    "phabricator": {
+        "MANIFEST": "phabricator.json",
+        "name": "Phabricator",
+        "icon": "https://alternative.me/media/256/phabricator-icon-qe56ihyxor46cyne-c.png",
+        "description": "Open source, software engineering platform",
+        "official": false,
+        "primary_pkg": "phabricator-php74",
+        "category": "Software tools",
+        "maintainer": "Rongsong Shen <rshen@shenrs.eu>",
+        "homepage": "https://secure.phabricator.com/"
+    }
+}
