@@ -1,7 +1,7 @@
 {
     "phabricator": {
         "MANIFEST": "phabricator.json",
-        "name": "Phabricator",
+        "name": "phabricator",
         "icon": "https://alternative.me/media/256/phabricator-icon-qe56ihyxor46cyne-c.png",
         "description": "Open source, software engineering platform",
         "official": false,
