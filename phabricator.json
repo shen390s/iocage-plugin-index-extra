@@ -6,6 +6,9 @@
 	"boot": "on"
     },
     "pkgs": [
+	"phabricator-php74",
+	"nginx",
+	"mysql57-server"
     ],
     "packagesite": "http://pkg.FreeBSD.org/FreeBSD:11:amd64/latest",
     "fingerprints": {
