@@ -11,7 +11,9 @@
     "pkgs": [
         "phabricator-php74",
         "nginx",
-        "mysql57-server"
+        "mysql57-server",
+        "py-pygments",
+        "sudo"
     ],
     "packagesite": "http://pkg.FreeBSD.org/FreeBSD:12:amd64/latest",
     "fingerprints": {
