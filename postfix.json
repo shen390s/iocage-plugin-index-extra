@@ -13,7 +13,7 @@
     "pkgs": [
         "postfix-sasl",
         "dkimproxy",
-        "cyrus-imapd",
+        "cyrus-imapd32",
         "cyrus-sasl-saslauthd"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
