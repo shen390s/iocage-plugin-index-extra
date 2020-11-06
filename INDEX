@@ -31,5 +31,16 @@
         "category": "Software tools",
         "maintainer": "Rongsong Shen <rshen@shenrs.eu>",
         "homepage": "https://secure.phabricator.com/"
-    }
+    },
+    "generic": {
+        "MANIFEST": "generic.json",
+        "name": "Generic",
+        "icon": "https://www.freebsd.org/layout/images/beastie.png",
+        "description": "Plugin for generic",
+        "official": false,
+        "primary_pkg": "fish",
+        "category": "Generic",
+        "maintainer": "Rongsong Shen <rshen@shenrs.eu>",
+        "homepage": "None"
+    },
 }
