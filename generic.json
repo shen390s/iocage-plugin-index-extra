@@ -11,7 +11,9 @@
         "vnet_default_interface":"bridge0"
     },
     "pkgs": [
-        "git"
+        "git",
+        "fish",
+        "tmux"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
