@@ -6,7 +6,9 @@
     "official": false,
     "properties": {
         "dhcp": 1,
-        "bpf": 1
+        "bpf": 1,
+        "interfaces":"vnet0:bridge0",
+        "vnet_default_interface":"bridge0"
     },
     "pkgs": [
         "nextcloud-php74",
