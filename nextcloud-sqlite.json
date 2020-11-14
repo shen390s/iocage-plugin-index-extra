@@ -18,7 +18,9 @@
         "php74-sqlite3",
         "php74-pdo_sqlite",
         "nginx",
-        "mysql57-server"
+        "mysql57-server",
+        "rsync",
+        "sudo",
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {

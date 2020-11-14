@@ -16,7 +16,9 @@
         "php74-bcmath",
         "php74-gmp",
         "nginx",
-        "mysql57-server"
+        "mysql57-server",
+        "rsync",
+        "sudo"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
