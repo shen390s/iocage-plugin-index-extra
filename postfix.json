@@ -1,7 +1,7 @@
 {
     "name": "Postfix",
     "plugin_schema": "2",
-    "release": "12.1-RELEASE",
+    "release": "12.2-RELEASE",
     "artifact": "https://github.com/shen390s/iocage-plugin-postfix.git",
     "official": false,
     "properties": {

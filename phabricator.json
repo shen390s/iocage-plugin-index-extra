@@ -1,6 +1,6 @@
 {
     "name": "phabricator",
-    "release": "12.1-RELEASE",
+    "release": "12.2-RELEASE",
     "artifact" : "https://github.com/shen390s/iocage-plugin-phabricator.git",
     "properties": {
         "boot": "on",
