@@ -13,7 +13,8 @@
     "pkgs": [
         "git",
         "fish",
-        "tmux"
+        "tmux",
+        "sudo"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
