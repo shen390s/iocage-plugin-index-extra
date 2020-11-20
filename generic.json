@@ -1,7 +1,7 @@
 {
     "name": "Generic",
     "plugin_schema": "2",
-    "release": "12.2-RELEASE",
+    "release": "12.1-RELEASE",
     "artifact": "https://github.com/shen390s/iocage-plugin-generic.git",
     "official": false,
     "properties": {
