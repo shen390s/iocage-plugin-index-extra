@@ -14,8 +14,7 @@
         "postfix-sasl",
         "dkimproxy",
         "cyrus-imapd32",
-        "cyrus-sasl-saslauthd",
-        "chpasswd"
+        "cyrus-sasl-saslauthd"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
