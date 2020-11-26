@@ -12,9 +12,7 @@
     },
     "pkgs": [
         "squid",
-        "py37-htpasswd",
-        "py37-certbot",
-        "py37-certbot-nginx",
+        "expect",
         "sudo"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
