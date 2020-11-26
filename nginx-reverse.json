@@ -13,6 +13,8 @@
     "pkgs": [
         "nginx",
         "py37-htpasswd",
+        "py37-certbot",
+        "py37-certbot-nginx",
         "sudo"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
