@@ -1,5 +1,5 @@
 {
-    "name": "NGINX Reverse Proxy",
+    "name": "nginx Reverse Proxy",
     "plugin_schema": "2",
     "release": "12.2-RELEASE",
     "artifact": "https://github.com/shen390s/iocage-plugin-nginx-reverse.git",
