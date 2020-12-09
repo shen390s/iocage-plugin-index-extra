@@ -9,7 +9,7 @@
         "dhcp": "on",
         "interfaces":"vnet0:bridge0",
         "vnet_default_interface":"bridge0",
-        "ip6", "disable"
+        "ip6": "disable"
     },
     "pkgs": [
         "git",
